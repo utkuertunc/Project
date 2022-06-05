@@ -1,7 +1,7 @@
 Project
 
 I tried to my best. I had a very busy week.
-Sorry about the some incomplete part, commentless code and not very readable API Documentation and README also Unit Testing.
+Sorry about the some little bit incomplete part, commentless code and not very readable API Documentation and README also Unit Testing.
 Unit Testing is maybe my favourite part of the developing. If I had time, I would definitely do my best to.
 
 For the project, just run the application, hibernate will automatically creates and updates db tables.
