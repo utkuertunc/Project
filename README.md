@@ -1,4 +1,4 @@
-# d14 AI Case Project
+Project
 
 I tried to my best. I had a very busy week.
 Sorry about the some incomplete part, commentless code and not very readable API Documentation and README also Unit Testing.
